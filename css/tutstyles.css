@@ -2,8 +2,15 @@
 
 body {
    font-family: arial;
-	background-color: rgb(216, 216, 216);
+    background-color: rgb(216, 216, 216);
 }
+
+.img-fluid {
+    text-align: center;
+
+}
+
+
 
 
 
