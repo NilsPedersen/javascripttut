@@ -9,7 +9,9 @@ body {
     text-align: center;
 }
 
-
+.text-box {
+    text-size-adjust: 10px;
+}
 
 
 
